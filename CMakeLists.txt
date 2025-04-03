@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
 
-Project(Calculator)
-set(SOURCEs
+project(Calculator)
+set(SOURCES
 src/calculator.cpp
 src/test.cpp
-src/calculator.h
+
 )
 add_executable(Calculator ${SOURCES_FILES})
 
