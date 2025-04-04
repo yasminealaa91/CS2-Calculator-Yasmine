@@ -6,5 +6,5 @@ src/calculator.cpp
 src/test.cpp
 
 )
-add_executable(Calculator ${SOURCES_FILES})
+add_executable(Calculator ${SOURCES})
 
